@@ -52,7 +52,28 @@ The first book follows the trio as they travel far from Garion’s home, never t
 ##### *Usability*
 - Navigation and use of the website will be reminiscent of wikipedia pages, minus all of the citations and hyperlinked words, so that users will already be semi-familiar with the functionality of the website.
 ##### *Reliability*
-- Testing will take place over a number of different device types, such as phones, laptops and tablets. Different screen sizes will be accounted for during development.
+- Testing will take place over a number of different device types, such as phones, laptops and tablets. Different screen sizes will be accounted for during testing and development.
 ##### *Security*
 - The app doesn't collect user data so there are no security concerns regarding personal information.
 ---
+### **Social Impact**
+##### *Target Audience Considerations*
+- The target audience is young fantasy fans, so consideration of mature themes, that may confuse, disturb or offend certain audiences, is required. Consideration of disabilities is also important, so features that help with the UX of disabled people should also be considered.
+##### *Potential Benefits*
+- This project makes it easier to digest and process the lore of the book, which helps ease readers into the story and focus more on the current events of the story instead of being lost in the vast amount of important characters, locations and items.
+##### *Potential Risks*
+- Potential risks for this project could include the stylistic choice of designing it like a history book. While fans of fantasy may find this idea immersive, some may be displeased by it, wanting a more straightforward or information-intensive experience.
+#
+### **Ethical Responsibilities**
+##### *User Data & Privacy*
+- At no point in the project will the project need to collect sensitive user data, let alone store or handle it.
+##### *Representation & Inclusion*
+- Representation of characters, events, locations and items within the source material will be presented based on the accounts and information from the book. Sensitive themes and ideas will be presented as they are, without opinion or judgement.
+##### *Content Sensitivity*
+- The book contains lots of elements of fictional physical and implied violence, such as describing an intense and violent battle between two characters, or brutal scars on a character's face. Prototypes, while still maintaining credibility, will refrain from going into the same amount of detail as the book.
+#
+### **Legal Considerations**
+##### *Copyright and Intellectual Property*
+- Excerpts from the original source material will definitely be used for reference in prototypes, and illustrations from the book will be required to accurately portray certain things. However most elements of the prototype will be researched and created by myself. Where required, credit to external sources will be given.
+##### *Terms of Use*
+- 
