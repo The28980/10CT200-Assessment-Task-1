@@ -72,7 +72,7 @@ The first book follows the trio as they travel far from Garion’s home, never t
 ---
 ### **Researching and Planning**
 ##### *Gantt Chart*
-![image](/images/Screenshot%202025-03-20%20100658.png "Gantt Chart")
+![image](/images/Screenshot%202025-03-28%20105142.png "Gantt Chart")
 ##### *Existing UI Research*
 | UI | Plus | Minus | Implementation |
 | - | - | - | - |
