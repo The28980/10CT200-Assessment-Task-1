@@ -87,25 +87,21 @@ The first book follows the trio as they travel far from Garion’s home, never t
 | Figma | Figma is cloud-based, meaning I can keep progress consistent over multiple devices. It also has version control, allowing me to revert changes in case of a cloud-save accident. | Figma is limited by a literal limit of 3 pages per file and 3 files per project, making for a total of 9 pages per project, which can be very limiting for much larger scale products. Many limitations on Figma are based on paid subscriptions. | For a smaller project, Figma would definitely be an effective free alternative to both Axure and Adobe, however that means many features and extra elements that would be helpful to have during the project are stuck behind payment. |
 | Adobe XD | Not only does Adobe XD have various tutorials to help users become more familiar with how it functions, it's also built for many parts of the UX design process such as wireframing, prototyping and eventual release. As an Adobe product, it is connected to the Adobe Creative Cloud which can be easily accessed. | Adobe XD is no longer available for individual purchase, meaning accessing the app requires a subscription to have access to every Adobe app, making it the least cost-effective option on the list. Furthermore, Adobe XD is no longer subject to updates, meaning over time it could lose relevancy as more effective and up-to-date products and tools are created. | Adobe XD is the most reliable option as it is the product of a very credible organisation. However, it is very hard to gain access to and the only reason it is a valid option is because the school grants students free access to all Adobe apps, including Adobe XD. However, for an independent creator, Adobe XD is not a cost-effective option. |
 | Axure RP | Axure RP is a much more complex software device that allows users to creature much more dynamic UX designs. It is likely by far the most diverse software tool on the list, that allows proficient users to make extremely well-designed and complex user experiences that could not be achieved as easily or at all using other software tools. | Axure has no free services and has a minimum subscription price of $29/month. For continuous use, this might be seen as worthwhile but for a singular project it's not very cost effective, especially when there are free applications. Axure RP also has a very steep learning curve, not being very beginner-friendly and requiring lots of practice to utilise effectively. | Axure RP would be a very useful resource to have during development, except it is quite expensive to accquire and the learning curve to use it effectively would make the process of production inefficient. Therefore, it's unlikely that I'll use this software for developing my prototypes and final project. |
-##### *Wireframes*
+##### *Wireframes and Feedback*
     Wireframe #1: Main Menu Wireframe
 ![image](/images/1.png "Main Menu Wireframe")
+ * **Aesthetics**: The general consensus of the wireframe's aesthetics is that it's a generally solid design. There aren't much outstanding problems that multiple people point out.
+* **Space Efficiency**: Most people consider the wireframe to be satisfiably space efficient, with only a few people commenting on the use of space towards the bottom of the page. Looking back, I agree with the concerns about the bottom of the page and will consider them in the development process. 
+* **Intuitiveness**: A few people have pointed out that the site may be a little hard to understand. While this may be because it's a wireframe, it could also be due to bad design choices that I'll have to consider.
 
-    Wireframe #2: Information Page
+Wireframe #2: Information Page
 ![image](images/2.png "Information Page Wireframe")
+* **Aesthetics**: The page is generally considered to be aesthetically pleasing. However, both one person and I have noticed that the amount of information on the page could be seen as overwhelming, which is the opposite of what I want to achieve in my project. So, I will take into consideration their feedback during development.
+* **Space Efficiency**: The page is praised for its very good space efficiency. However a problem that is pointed out is the strange use of boxes underneath the image, and how they clash with the smooth flow of the page. I will definitely have to consider this during development.
+* **Intuitiveness**: The page is very obvious in how it is meant to be used, an element that most people point out about it.
 
-    Wireframe #3: Map Page
+Wireframe #3: Map Page
 ![image](images/3.png "Map Page Wireframe")
-##### *Wireframe Feeback*
-* Wireframe #1 (Main Menu)
-    * Aesthetics:
-    * Space Efficiency: 
-    * Intuitiveness:
-* Wireframe #2 (Information Page)
-    * Aesthetics:
-    * Space Efficiency:
-    * Intuitiveness:
-* Wireframe #3 (Map Page)
-    * Aesthetics:
-    * Space Efficiency:
-    * Intuitiveness:
+* **Aesthetics**: The opinions on the aesthetics of the map page are the most positive, likely because it is the most basic page that contians little room to mess up or make ugly. This does also lead to some people feeling as if the page is a little empty.
+* **Space Efficiency**: Reviews say the design is very space efficient, however some people do find the concept of a singular image on a page quite strange.
+* **Intuitiveness**: The page is easily the most intuitive wireframe because it is just an image. Most users found the concept and functionality very easy to grasp and understand.
