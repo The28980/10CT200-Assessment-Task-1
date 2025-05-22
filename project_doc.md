@@ -72,7 +72,7 @@ The first book follows the trio as they travel far from Garion’s home, never t
 ---
 ### **Researching and Planning**
 ##### *Gantt Chart*
-![image](/images/Screenshot%202025-03-28%20105142.png "Gantt Chart")
+![image](/images/GanttChartFinal.png "Gantt Chart")
 - Days shaded darker are days with Computing Technology lessons.
 ##### *PMI Tables*
     Existing UI Research
@@ -105,3 +105,38 @@ Wireframe #3: Map Page
 * **Aesthetics**: The opinions on the aesthetics of the map page are the most positive, likely because it is the most basic page that contians little room to mess up or make ugly. This does also lead to some people feeling as if the page is a little empty.
 * **Space Efficiency**: Reviews say the design is very space efficient, however some people do find the concept of a singular image on a page quite strange.
 * **Intuitiveness**: The page is easily the most intuitive wireframe because it is just an image. Most users found the concept and functionality very easy to grasp and understand.
+---
+### **Ongoing Project Development Evaluations**
+##### *First Week*
+![image](/images/FirstLayout.png "First Week Progress")
+- The first week of production was very productive, as I was able to finish designing the basic look of both a home page and a single informational page. However, looking back I acknowledge that the sizing of the layout could make it hard to read on the intended mobile setting, forcing me to consider a major overhaul for the visual aspect of the project.
+- Most design choices made in this first week were focused on laying out the main design of the pages, allowing me to later build user interactions off of the basic layout and eventually flesh it out into a fully developed product.
+- Most difficulties came from getting used to utilising the Adobe XD software, which required a lesson for me to get used to its layout and how to effectively utilise the software.
+- Time management and workflow this week was more effective than usual, and I was able to get more work done than I would usually able to. I found that simply dialing in and focusing hard on completing small incremental goals helped me slowly inch forward in progress without realising it.
+- The objective next week is to start on the second prototype on Figma, working really fast to make up for the progress I will lose. Then, from the Figma prototype, I can begin to work on functional user interactions and create the first working experience.
+##### *Second Week*
+![image](/images/Pages.png "Second Week Progress")
+![image](/images/Components.png "Second Week Progress")
+- The second week of production was more focused on establishing the user interaction with the website. After redesigning the home page and information page slightly, I got to work learning how to use Figma and create components, variants, functional interactions and other UX elements.
+- The most important design decision was the complete switch of software from Adobe XD to Figma, in order to completely start fresh on the UI design and begin to work on the UX elements of the website with more beginner-friendly software.
+- The biggest obstacle this week was the learning curve for Figma. Learning how to effectively create things such as components, variants and interactions, as well as having to keep track of an often cluttered digital workspace was quite challenging. However, after a lesson dedicated to practising using Figma and watching lots of tutorials, I was able to adapt accordingly and use Figma properly.
+- Workflow this week was quite slower than the first, as I focused more on preparing myself for the final stretch in the third sprint. The second prototype was not actually finished within the second week time frame, but lots of progress was made.
+- The final week of development will focus on completing user interactions and creating pages with meaningful information on them. With most of the components required for this project completed, all that's left for next week is to finish off designing the pages and stringing them all together using interactions.
+##### *Final (Third) Week*
+![image](/images/CompletedProject.png "Final Week Progress")
+- Progress made in the final week was not as much as the last 2 weeks, as I began to slow down in pace as I approached the project deadline. While I was still able to get the third prototype complete, it was a little less full than I'd like it to be.
+- The biggest design choice was the simplification of the character page. Instead of completey redirecting the user to a completely new page, causing them to enter a rabbit hole of new pages, a smaller menu component was used to simplify the process for the user.
+- There were hardly any major problems in this stage of development, as I had mostly adapted to using and navigating Figma. while the software could still be a little difficult to use at times, I was more confident and capable of handling issues on my own.
+- Workflow began to slow down in the final week, still remaining consistent but just slowing down as the week progressed. While this wasn't too much of an issue considering the substantial work that had been done already, this did keep me from actually pushing through to the end. I found that refocusing on smaller finishing touches helped recenter my focus on finishing the task fully.
+---
+### **Final Evauations**
+##### *Functional and Non-Functional Requirements*
+- The final prototype deviated from the proposal as unrealistic planned features were never implemented to their full potential. However, basic and key requirements such as functionality, purpose of application and performance were effectively met, despite the deviations from the original plan.
+##### *Design Brief*
+- The final design definitely conforms with the target audience outlined in the design brief. However, the design deviates in the fact that the scope of the prototype was extended from the book 'Pawn of Prophecy' to the entire book series THE Belgariad. Despite this, the final design is still suited for the intended audiences.
+##### *Responsibilities*
+- The source material didn't have much relevant social, ethical or legal issues tied to it, meaning that the final prototype was free from most issues surrounding legal responsibilities. All information and assets in the final prototype were self-researched, using publically available information that didn't violate any copyright laws.
+##### *Time and Resource Management*
+- Time management for this project was actually very effective, allowing me to work efficiently and complete adequate chunks of work during class and keep up with the flow of work. Upon hitting a road block when using Adobe XD, the decision to switch to Figma was actually extremely beneficial to the process as it was more suited for beginners like me, making it a much better tool for me to use in the development of my final product.
+##### *User Feedback*
+- During every single decision, I constantly took external feedback and reccomendations into consideration. Decisions such as the redesigning of the pages and the switch to using Figma were based off of peer reccomendations that I considered thoroughly. User feedback and testing functions was a key aspect of the development process for me.
